@@ -512,8 +512,8 @@ print (ERP)
 
 # In[92]:
 
-
-dict = {'Marka': 'Toyota', 'Yıl': 2016}
+#Dictionary yapısı farklı key- value türlerini alabiliyor.
+dict = {'Marka': 'Toyota', 'Yıl': 2016, 1:'Test'}
 print ("Marka : %s" %  dict.get('Yıl'))
 print ("Value : %s" %  dict.get('Servis', "Mevcut Değil"))
 
