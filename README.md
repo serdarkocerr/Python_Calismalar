@@ -7,6 +7,6 @@
 ![alt text](https://github.com/serdarkocerr/Python_Calismalar/blob/master/images/basicKalmanImage.PNG)
 ### Raw datada ortalama alan  Kalman Filtresi (KalmanFilter.py)
 ![alt text](https://github.com/serdarkocerr/Python_Calismalar/blob/master/images/KalmanF%E2%80%8EilterAvg.PNG)
-## Raw datada ortalama alan  Kalman Filtresi (KalmanFilter.py)
+### CV (Constant Velocity) Kalman Filtresi
 ![alt text](https://github.com/serdarkocerr/Python_Calismalar/blob/master/images/cvKalmanFilter.png)
 
